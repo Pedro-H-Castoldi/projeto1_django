@@ -25,9 +25,9 @@ SECRET_KEY = 'e5d1wf60ww+5!u8csd$^vn1f(hec6#wgzxh7h8yu&*%48v+zfh'
 # SECURITY WARNING: don't run with debug turned on in production!
 # DEBUG = True == Modo de desenvolvimento.
 # DEBUG = False == Modo de publicação.
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['*'] # www.nomedosite.com.br
+ALLOWED_HOSTS = ['django1-ph.herokuapp.com'] # www.nomedosite.com.br
 
 
 # Application definition
